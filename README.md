@@ -2,6 +2,7 @@
 ![output image]( https://qengineering.eu/github/Colorization15.webp )
 ## Colorization with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
+Paper: https://arxiv.org/pdf/1603.08511.pdf<br/><br/>
 Special made for a bare Raspberry Pi 4, see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html)
 
 ------------
