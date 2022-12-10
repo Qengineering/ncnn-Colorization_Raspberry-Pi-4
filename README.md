@@ -44,12 +44,13 @@ Before you can run the app, you have to download the model weights. The file is 
 ## Running the app.
 To run the application load the project file Colorization.cbp in Code::Blocks.<br/> 
 The app takes the b/w input file and the output file name as command line arguments.<br>
-You may find the hint at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn) usefull.<br/>
+You may find the hint at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn) handy.<br/>
+Do note the application takes about 10 Sec to process a single picture.
 
 ------------
 
 ### Thanks.
-A more than special thanks to [***magicse***](https://github.com/magicse) who adapted the ncnn framework for this colorization app.<br>
+A more than special thanks to [***magicse***](https://github.com/magicse), who adapted the ncnn framework for this colorization app.<br>
 
 ------------
 
