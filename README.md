@@ -29,6 +29,7 @@ $ rm README.md <br/> <br/>
 Your *MyDir* folder must now look like this: <br/> 
 15.jpg <br/>
 17.jpg <br/>
+Julia.jpg <br/>
 Colorization.cpb <br/>
 main.cpp <br/>
 Sig17Slice.h <br/>
